@@ -99,15 +99,10 @@ main{
     min-width: 270px;
     max-width: 1000px;
 }
-.bloco{
-    display: block;
-    margin: auto;
-    min-width: 270px;
-    max-width: 1000px;
-}
 img{
     display: block;
     margin: auto;
+    max-width: 990px;
 }
 p{
     text-align: justify;
