@@ -102,6 +102,7 @@ main{
 img{
     display: block;
     margin: auto;
+    width: auto;
     max-width: 990px;
 }
 p{
