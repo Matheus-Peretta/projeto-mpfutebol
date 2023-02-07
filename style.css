@@ -102,12 +102,7 @@ main{
 .bloco{
     display: block;
     margin: auto;
-    min-width: 270px;
     max-width: 1000px;
-}
-.bloco img{
-    display: block;
-    margin: auto;
 }
 p{
     text-align: justify;
