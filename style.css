@@ -102,6 +102,8 @@ main{
 img.bloco{
     display: block;
     margin: auto;
+    min-width: 270px;
+    max-width: 1000px;
 }
 p{
     text-align: justify;
