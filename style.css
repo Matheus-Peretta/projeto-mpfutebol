@@ -101,10 +101,10 @@ main{
 }
 .imagefundo{
     background-image: url(imagens/Mbappeedi.jpg);
-    min-width: 270px;
-    max-width: 1000px;
     margin: auto;
     height: 900px;
+    min-width: 270px;
+    max-width: 1000px;
 }
 .bloco{
     display: block;
@@ -174,7 +174,7 @@ li{
 }
 #conquistasbase{
     background-color: white;
-    margin: 450px -10px 0px -10px;
+    margin: 450px 0px 0px 0px;
     border-radius: 10px;
 }
 #classificacoes{
