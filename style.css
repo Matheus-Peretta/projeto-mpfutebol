@@ -110,11 +110,14 @@ img.centro{
     display: block;
     margin: auto;
 }
-#bdif{
+#bdifpalsan{
+    height: 225px;
+}
+#bdifbenzem{
     width: 200px;
 }
-#bdifdois{
-    height: 300px;
+#bdifmbap{
+    height: 337px;
 }
 p{
     text-align: justify;
