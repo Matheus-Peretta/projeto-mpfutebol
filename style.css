@@ -99,6 +99,13 @@ main{
     min-width: 270px;
     max-width: 1000px;
 }
+.imagefundo{
+    background-image: url(imagens/Mbappeedi.jpg);
+    min-width: 270px;
+    max-width: 1000px;
+    margin: auto;
+    height: 900px;
+}
 .bloco{
     display: block;
     margin: auto;
@@ -164,6 +171,11 @@ li{
     font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
     font-size: 25px;
     margin-left: 10px;
+}
+#conquistasbase{
+    background-color: white;
+    margin: 450px -10px 0px -10px;
+    border-radius: 10px;
 }
 #classificacoes{
     width: 200px;
