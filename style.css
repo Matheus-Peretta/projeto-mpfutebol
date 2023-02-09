@@ -101,8 +101,10 @@ main{
 }
 .imagefundo{
     background-image: url(imagens/Mbappeedi.jpg);
+    background-repeat: repeat;
+    background-position: center center;
     margin: auto;
-    height: 900px;
+    height: 1300px;
     min-width: 270px;
     max-width: 1000px;
 }
