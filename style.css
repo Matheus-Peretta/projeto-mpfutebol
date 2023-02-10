@@ -185,6 +185,13 @@ li{
 #classificacoes2{
     margin: 10px 10px 10px 10px;
     width: 200px;
+    position: relative;
+    left: 230px;
+    bottom: 223px;
+}
+.escondido{
+    position: relative;
+    right: 48px;
 }
 a{
     text-decoration: none;
