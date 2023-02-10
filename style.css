@@ -188,7 +188,9 @@ li{
     position: relative;
     left: 230px;
     bottom: 223px;
-    padding: 20px;
+}
+#classificacoes2>ol{
+    width: 85%;
 }
 .escondido{
     position: relative;
