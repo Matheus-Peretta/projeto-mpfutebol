@@ -183,10 +183,9 @@ li{
     width: 200px;
 }
 #classificacoes2{
-    margin: 10px 10px 10px 10px;
-    max-width: 190px;
+    width: 200px;
     position: relative;
-    left: 230px;
+    left: 46%;
     bottom: 223px;
 }
 #classificacoes2>ol{
