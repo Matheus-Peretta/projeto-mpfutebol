@@ -92,10 +92,10 @@ nav>a{
 }
 main{
     background-color: white;
-    margin: auto;
     padding: 10px 10px 0px 10px;
     border-radius: 0px 0px 10px 10px;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.536);
+    margin: auto;
     min-width: 270px;
     max-width: 1000px;
 }
@@ -180,16 +180,22 @@ li{
     border-radius: 10px;
 }
 #classificacoes{
-    width: 200px;
-}
-#classificacoes2{
-    width: 200px;
+    background-color: white;
+    padding: 10px 10px 0px 10px;
+    margin: auto;
+    min-width: 270px;
+    max-width: 1000px;
     position: relative;
-    left: 46%;
-    bottom: 223px;
 }
-#classificacoes2>ol{
-    width: 85%;
+#ligainglesa{
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+#ligaespanha{
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    position: absolute;
+    transform: translate(100%, -110%);
 }
 .escondido{
     position: relative;
@@ -203,10 +209,11 @@ abbr{
 }
 footer{
     background-color: #035aa6e3;
-    margin: 0px;
     border-radius: 0px 0px 5px 5px;
-    margin-right: -10px;
-    margin-left: -10px;
+    padding: 10px 10px 0px 10px;
+    margin: auto;
+    min-width: 270px;
+    max-width: 1000px;
 }
 footer>p{
     color: white;
