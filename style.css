@@ -179,6 +179,19 @@ li{
     margin: 450px 0px 0px 0px;
     border-radius: 10px;
 }
+#degrade{
+    position: relative;
+    top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: linear-gradient(to right, #0583f2d7, white 98%);
+    box-shadow: 0px 0px 0px white;
+    padding-left: 50px;
+    min-width: 300px;
+    max-width: 900px;
+    width: 70%;
+}
 #classificacoes{
     width: 200px;
 }
