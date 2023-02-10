@@ -101,12 +101,15 @@ main{
 }
 .imagefundo{
     background-image: url(imagens/sub20brasil.jpg);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-position: center center;
+    background-size: cover;
     margin: auto;
-    height: 1300px;
+    height: 400px;
     min-width: 270px;
     max-width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .bloco{
     display: block;
@@ -176,8 +179,10 @@ li{
 }
 #conquistasbase{
     background-color: white;
-    margin: 450px 0px 0px 0px;
-    border-radius: 10px;
+    margin: auto;
+    max-width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 #classificacoes{
     background-color: white;
@@ -196,10 +201,6 @@ li{
     padding-bottom: 10px;
     position: absolute;
     transform: translate(100%, -110%);
-}
-.escondido{
-    position: relative;
-    right: 48px;
 }
 a{
     text-decoration: none;
