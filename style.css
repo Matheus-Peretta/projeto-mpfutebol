@@ -204,6 +204,11 @@ li{
     position: absolute;
     transform: translate(100%, -110%);
 }
+.jogoshj{
+    width: 85vw;
+    max-width: 450px;
+}
+
 a{
     text-decoration: none;
 }
