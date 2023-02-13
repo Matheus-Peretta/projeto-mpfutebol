@@ -183,6 +183,7 @@ li{
     max-width: 1000px;
     padding-left: 10px;
     padding-right: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.536);
 }
 #classificacoes{
     background-color: white;
