@@ -206,8 +206,8 @@ li{
 }
 .jogoshj{
     width: 85vw;
-    max-width: 410px;
     margin-left: 40px;
+    display: inline-block;
 }
 
 a{
