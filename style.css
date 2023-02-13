@@ -143,6 +143,7 @@ p{
     margin-left: 15px;
     margin-top: 35px;
     text-shadow: 1px 1px 1px rgb(0 0 0 / 61%);
+    display: inline-block;
 }
 .video{
     background-color: var(--fundotitulo);
