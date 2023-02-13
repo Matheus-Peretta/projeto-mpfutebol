@@ -205,7 +205,8 @@ li{
     transform: translate(100%, -110%);
 }
 .jogoshj{
-    font-size: 2.7vh;
+    width: 90%;
+    min-width: 415px;
     padding-left: 40px;
 }
 
