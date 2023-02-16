@@ -239,3 +239,14 @@ footer>p{
     background-color: #25537b9c;
     color: #006eff;
 }
+#telacel{
+    background-color: white;
+    margin: auto;
+    padding: 40px 20px 10px 0px;
+    min-width: 270px;
+    max-width: 1000px;
+    border-radius: 0px 0px 10px 10px;
+}
+.ifram{
+    
+}

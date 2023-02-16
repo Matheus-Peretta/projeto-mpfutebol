@@ -14,10 +14,15 @@
         table{
             width: 600px;
             border-collapse: collapse;
+            margin: auto;
         }
         table th{
             background-color: gray;
             color: white;
+        }
+        #rolagem{
+            overflow-y: auto;
+            margin: auto;
         }
     </style>
 </head>
@@ -34,52 +39,61 @@
         <h2 class="aqui">Você Jogador</h2>
         <a href="contato.html" alt="next" class="nessa">Contato</a>
     </nav>
-    <main>
-        <table>
-            <thead>
-                <th scope="col">grupo</th>
-                <th scope="col">nomes</th>
-                <th scope="col" colspan="3">filmes</th>
-            </thead>
-            <tr>
-                <th scope="row" rowspan="3">mulheres</th>
-                <td>ana maria santos</td>
-                <td>alien</td>
-                <td>rambo</td>
-                <td>vingadores</td>
-            </tr>
-            <tr>
-                <td>beatriz souza</td>
-                <td>hulk</td>
-                <td>inception</td>
-                <td>batman</td>
-            </tr>
-            <tr>
-                <td>claudia melo</td>
-                <td>oblivion</td>
-                <td>matrix</td>
-                <td>big hero</td>
-            </tr>
-            <tr>
-                <th scope="row" rowspan="3">homens</th>
-                <td>bruno mendonça</td>
-                <td>intocaveis</td>
-                <td>amnésia</td>
-                <td>gladiador</td>
-            </tr>
-            <tr>
-                <td>daniel lourenço</td>
-                <td>wall-e</td>
-                <td>oldboy</td>
-                <td>dangal</td>
-            </tr>
-            <tr>
-                <td>fabiano mota</td>
-                <td>star wars</td>
-                <td>taxi driver</td>
-                <td>toy story</td>
-            </tr>
-        </table>
+    <main style="border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;">
+        <div id="rolagem">
+            <table>
+                <thead>
+                    <th scope="col">grupo</th>
+                    <th scope="col">nomes</th>
+                    <th scope="col" colspan="3">filmes</th>
+                </thead>
+                <tr>
+                    <th scope="row" rowspan="3">mulheres</th>
+                    <td>ana maria santos</td>
+                    <td>alien</td>
+                    <td>rambo</td>
+                    <td>vingadores</td>
+                </tr>
+                <tr>
+                    <td>beatriz souza</td>
+                    <td>hulk</td>
+                    <td>inception</td>
+                    <td>batman</td>
+                </tr>
+                <tr>
+                    <td>claudia melo</td>
+                    <td>oblivion</td>
+                    <td>matrix</td>
+                    <td>big hero</td>
+                </tr>
+                <tr>
+                    <th scope="row" rowspan="3">homens</th>
+                    <td>bruno mendonça</td>
+                    <td>intocaveis</td>
+                    <td>amnésia</td>
+                    <td>gladiador</td>
+                </tr>
+                <tr>
+                    <td>daniel lourenço</td>
+                    <td>wall-e</td>
+                    <td>oldboy</td>
+                    <td>dangal</td>
+                </tr>
+                <tr>
+                    <td>fabiano mota</td>
+                    <td>star wars</td>
+                    <td>taxi driver</td>
+                    <td>toy story</td>
+                </tr>
+            </table>
+        </div>
     </main>
+    <section id="telacel">
+        <hr style="margin-bottom: 50px;">
+        <a href="#"><img src="#" alt="instagram"></a>
+        <a href="#"><img src="#" alt="youtube"></a>
+        <a href="#"><img src="#" alt="linkedin"></a>
+        <iframe class="ifram" src="" name="frame"></iframe>
+    </section>
 </body>
 </html>
