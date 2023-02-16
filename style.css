@@ -246,10 +246,21 @@ footer>p{
     min-width: 270px;
     max-width: 1000px;
     border-radius: 0px 0px 10px 10px;
+    box-shadow: var(--sombracaixa);
+    height: 600px;
 }
-.ifram{
-    width: max(274px, 15vw);
-    height: 530px;
+#imagemcelular{
+    background-image: url(imagens/celular2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    width: 280px;
     margin: auto;
-    display: block;
+}
+#hometela{
+    position: relative;
+    height: 463px;
+    width: 261.4px;
+    top: 59px;
+    left: 9px;
 }
