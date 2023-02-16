@@ -248,5 +248,9 @@ footer>p{
     border-radius: 0px 0px 10px 10px;
 }
 .ifram{
-    
+    border: 2px solid black;
+    width: max(220px, 15vw);
+    height: 400px;
+    margin: auto;
+    display: block;
 }
