@@ -247,7 +247,8 @@ footer>p{
     max-width: 1000px;
     border-radius: 0px 0px 10px 10px;
     box-shadow: var(--sombracaixa);
-    height: 600px;
+    height: 900px;
+    background-image: linear-gradient(to bottom ,#05B3A7, #035AA6,#034C8C );
 }
 #imagemcelular{
     background-image: url(imagens/celular2.png);
@@ -263,4 +264,20 @@ footer>p{
     width: 261.4px;
     top: 59px;
     left: 9px;
+}
+aside.alternativo{
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.alternativo img{
+    width: 50px;
+    border-radius: 28%;
+    margin-bottom: 10px;
+    margin-right: 22px;
+    box-sizing: border-box;
+}
+.alternativo img:hover{
+    border: 2px solid black;
+    transform: translate(-5px, -5px);
 }
