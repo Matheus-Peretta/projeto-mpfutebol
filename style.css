@@ -244,26 +244,26 @@ footer>p{
     background-color: white;
     margin: auto;
     padding: 40px 20px 10px 0px;
-    min-width: 270px;
+    min-width: 386px;
     max-width: 1000px;
     border-radius: 0px 0px 10px 10px;
     height: 900px;
     background-image: linear-gradient(to bottom, white,#05B3A7, #035AA6,#034C8C );
 }
 #imagemcelular{
-    background-image: url(imagens/celular2.png);
+    background-image: url(imagens/celular.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 540px;
-    width: 280px;
+    height: 728px;
+    width: 334px;
     margin: auto;
 }
 #hometela{
     position: relative;
-    height: 463px;
-    width: 261.4px;
-    top: 59px;
-    left: 9px;
+    height: 547px; 
+    width: 310px;
+    top: 92px;
+    left: 14px;
 }
 aside.alternativo{
     display: inline-block;
