@@ -247,9 +247,8 @@ footer>p{
     min-width: 270px;
     max-width: 1000px;
     border-radius: 0px 0px 10px 10px;
-    box-shadow: var(--sombracaixa);
     height: 900px;
-    background-image: linear-gradient(to bottom ,#05B3A7, #035AA6,#034C8C );
+    background-image: linear-gradient(to bottom, white,#05B3A7, #035AA6,#034C8C );
 }
 #imagemcelular{
     background-image: url(imagens/celular2.png);
