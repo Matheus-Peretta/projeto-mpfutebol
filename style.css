@@ -121,6 +121,7 @@ main{
 img.centro{
     display: block;
     margin: auto;
+    width: min(257px, 188vw);
 }
 p{
     text-align: justify;
